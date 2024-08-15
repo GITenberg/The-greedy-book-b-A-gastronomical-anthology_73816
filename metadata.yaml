@@ -1,5 +1,8 @@
 _repo: The-greedy-book-b-A-gastronomical-anthology_73816
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73816-h/images/cover.jpg
 creator:
   author:
     agent_name: Schloesser, Frank
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '57118'
     url: http://www.gutenberg.org/2009/agents/57118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73816#The-greedy-book-b-A-gastronomical-anthology
 gutenberg_issued: '2024-06-12'
 gutenberg_type: Text
 identifiers:
